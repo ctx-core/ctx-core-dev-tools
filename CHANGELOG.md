@@ -1,5 +1,11 @@
 # @ctx-core/dev-tools
 
+## 3.0.2
+
+### Patch Changes
+
+- typescript: ^4.0.5 -> ^4.1.2
+
 ## 3.0.1
 
 ### Patch Changes
