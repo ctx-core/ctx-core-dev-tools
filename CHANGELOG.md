@@ -1,4 +1,14 @@
-# @ctx-core/dev-tools
+# @ctx-core/ctx-core-dev-tools
+
+## 4.0.0
+
+### Major Changes
+
+- package name is @ctx-core/ctx-core-dev-tools: specific to @ctx-core/dev project
+
+### Patch Changes
+
+- - .rush
 
 ## 3.0.3
 
