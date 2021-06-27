@@ -1,5 +1,11 @@
 # @ctx-core/ctx-core-dev-tools
 
+## 6.0.6
+
+### Patch Changes
+
+- dist directory
+
 ## 6.0.5
 
 ### Patch Changes
