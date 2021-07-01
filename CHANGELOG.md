@@ -1,5 +1,11 @@
 # @ctx-core/ctx-core-dev-tools
 
+## 6.0.7
+
+### Patch Changes
+
+- typescript: ^4.3.4 -> ^4.3.5
+
 ## 6.0.6
 
 ### Patch Changes
