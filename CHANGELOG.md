@@ -1,5 +1,11 @@
 # @ctx-core/ctx-core-dev-tools
 
+## 6.0.20
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+
 ## 6.0.19
 
 ### Patch Changes
