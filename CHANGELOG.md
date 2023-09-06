@@ -1,5 +1,11 @@
 # @ctx-core/ctx-core-dev-tools
 
+## 6.1.22
+
+### Patch Changes
+
+- version bump
+
 ## 6.1.21
 
 ### Patch Changes
