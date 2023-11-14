@@ -1,5 +1,11 @@
 # @ctx-core/ctx-core-dev-tools
 
+## 6.1.23
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+
 ## 6.1.22
 
 ### Patch Changes
