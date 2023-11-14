@@ -1,5 +1,11 @@
 # @ctx-core/ctx-core-dev-tools
 
+## 6.1.24
+
+### Patch Changes
+
+- package.json: files: + \*.js
+
 ## 6.1.23
 
 ### Patch Changes
