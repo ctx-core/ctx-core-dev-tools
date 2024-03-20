@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/ctx-core-dev-tools",
-	"version": "6.1.24",
+	"version": "6.1.25",
 	"description": "git tools for the @ctx-core monorepo",
 	"keywords": [
 		"ctx-core"
@@ -14,7 +14,11 @@
 		"url": "https://github.com/ctx-core/ctx-core-dev-tools/issues"
 	},
 	"license": "Apache-2.0",
-	"author": "Brian Takita",
+	"author": {
+		"name": "Brian Takita",
+		"url": "https://briantakita.me",
+		"email": "info+ctx-core-dev-tools@briantakita.me"
+	},
 	"type": "module",
 	"exports": {
 		"./package.json": "./package.json"

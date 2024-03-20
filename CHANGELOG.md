@@ -1,5 +1,11 @@
 # @ctx-core/ctx-core-dev-tools
 
+## 6.1.25
+
+### Patch Changes
+
+- package.json: author: url,email
+
 ## 6.1.24
 
 ### Patch Changes
