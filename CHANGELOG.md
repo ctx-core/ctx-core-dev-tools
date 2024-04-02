@@ -1,5 +1,11 @@
 # @ctx-core/ctx-core-dev-tools
 
+## 7.0.0
+
+### Major Changes
+
+- - install-ctx-core
+
 ## 6.1.25
 
 ### Patch Changes
