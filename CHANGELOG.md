@@ -1,5 +1,11 @@
 # @ctx-core/ctx-core-dev-tools
 
+## 7.0.1
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+
 ## 7.0.0
 
 ### Major Changes
